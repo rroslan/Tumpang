@@ -1,0 +1,275 @@
+{
+  "project_info": {
+    "project_number": "468167798410",
+    "firebase_url": "https://tumpang.firebaseio.com",
+    "project_id": "firebase-tumpang",
+    "storage_bucket": "firebase-tumpang.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468167798410:android:6095cdcf8de6d292",
+        "android_client_info": {
+          "package_name": "com.labuanservices.rrosl.tumpang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468167798410-f6rdiofkmhrf5evfp2emfu2bn74no4ou.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "468167798410-4mhekmvpfl8pog3d0rp5aq2ibhcmv09g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.labuanservices.rrosl.tumpang",
+            "certificate_hash": "e59436640dfa740780d9ba6de6f7a4bb7b522d93"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZnfe8h_Gb105sh3zf3I6c3YGg_DyNSr0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468167798410-f6rdiofkmhrf5evfp2emfu2bn74no4ou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468167798410:android:0edda0cee7ca3947",
+        "android_client_info": {
+          "package_name": "biz.eastservices.tumpang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468167798410-92kapplr0q3td87nemnn47uc14do3skd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "biz.eastservices.tumpang",
+            "certificate_hash": "7eb7f2de55df92cb8db83f837bdb7bd4e05523da"
+          }
+        },
+        {
+          "client_id": "468167798410-f6rdiofkmhrf5evfp2emfu2bn74no4ou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZnfe8h_Gb105sh3zf3I6c3YGg_DyNSr0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468167798410-f6rdiofkmhrf5evfp2emfu2bn74no4ou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468167798410:android:09d5d43b9ea01027",
+        "android_client_info": {
+          "package_name": "biz.eastservices.tumpang.live"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468167798410-h5josgafgib4hfpfj4jmb00ovlhuefao.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "biz.eastservices.tumpang.live",
+            "certificate_hash": "b894f9271d34e487f87add3173baacac6d240865"
+          }
+        },
+        {
+          "client_id": "468167798410-f6rdiofkmhrf5evfp2emfu2bn74no4ou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZnfe8h_Gb105sh3zf3I6c3YGg_DyNSr0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468167798410-f6rdiofkmhrf5evfp2emfu2bn74no4ou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468167798410:android:1126680b12c9fbe8",
+        "android_client_info": {
+          "package_name": "com.firebase.rroslan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468167798410-1kg389oln5aa808em1g27jtfujcirhd5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firebase.rroslan",
+            "certificate_hash": "b894f9271d34e487f87add3173baacac6d240865"
+          }
+        },
+        {
+          "client_id": "468167798410-f6rdiofkmhrf5evfp2emfu2bn74no4ou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZnfe8h_Gb105sh3zf3I6c3YGg_DyNSr0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468167798410-f6rdiofkmhrf5evfp2emfu2bn74no4ou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468167798410:android:4a09cf1ffd36586d",
+        "android_client_info": {
+          "package_name": "biz.eastservices.locationfencing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468167798410-5jvjadanacmln24k9d1mni71kfnpje72.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "biz.eastservices.locationfencing",
+            "certificate_hash": "b894f9271d34e487f87add3173baacac6d240865"
+          }
+        },
+        {
+          "client_id": "468167798410-f6rdiofkmhrf5evfp2emfu2bn74no4ou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZnfe8h_Gb105sh3zf3I6c3YGg_DyNSr0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468167798410-f6rdiofkmhrf5evfp2emfu2bn74no4ou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468167798410:android:081cb5d38dced02a",
+        "android_client_info": {
+          "package_name": "com.simcoder.rroslan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468167798410-3td5ds2ckj3g4q0ru5vpvt2lt9p3nvhq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simcoder.rroslan",
+            "certificate_hash": "7eb7f2de55df92cb8db83f837bdb7bd4e05523da"
+          }
+        },
+        {
+          "client_id": "468167798410-f6rdiofkmhrf5evfp2emfu2bn74no4ou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZnfe8h_Gb105sh3zf3I6c3YGg_DyNSr0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468167798410-f6rdiofkmhrf5evfp2emfu2bn74no4ou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
