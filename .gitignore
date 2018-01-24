@@ -7,3 +7,6 @@
 /build
 /captures
 .externalNativeBuild
+/app/src/main/java/biz/eastservices/tumpang/PayPalConfig.java
+/app/google-services.json
+/app/src/debug/res/values/google_maps_api.xml
